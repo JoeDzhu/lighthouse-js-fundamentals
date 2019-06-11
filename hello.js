@@ -2,4 +2,4 @@ const sayHello = function (name){
   console.log("Hello, " + name + "!");
 }
 
-sayHello('Jesus');
+sayHello('Jesus!');
